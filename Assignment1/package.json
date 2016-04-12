@@ -1,0 +1,10 @@
+{
+  "name": "events",
+  "version": "1.0.0",
+  "description": "events example",
+  "main": "events",
+  "author": "Ravi",
+  "engines":{
+    "node":"*"
+    }
+  }
